@@ -1,110 +1,110 @@
 [
   {
-    "from": "Cairo",
-    "to": "Paris",
-    "departure": "25/10/2021",
-    "arrival": "25/10/2021",
+    "from": "Kolkata",
+    "to": "Pune",
+    "departure": "20/11/2021",
+    "arrival": "20/11/2021",
     "depTime": "1:05 AM",
     "arrTime": "7:05 AM",
-    "price": 500
+    "price": 2950
   },
   {
-    "from": "Cairo",
-    "to": "Paris",
-    "departure": "25/10/2021",
-    "arrival": "25/10/2021",
+    "from": "Kolkata",
+    "to": "Chennai",
+    "departure": "20/11/2021",
+    "arrival": "20/11/2021",
     "depTime": "3:05 AM",
     "arrTime": "10:05 AM",
-    "price": 500
+    "price": 2850
   },
   {
-    "from": "Paris",
-    "to": "Cairo",
-    "departure": "30/10/2021",
-    "arrival": "30/10/2021",
+    "from": "Chennai",
+    "to": "Kolkata",
+    "departure": "30/12/2021",
+    "arrival": "30/12/2021",
     "depTime": "1:05 AM",
     "arrTime": "7:05 AM",
-    "price": 500
+    "price": 2850
   },
   {
-    "from": "Paris",
-    "to": "Cairo",
-    "departure": "30/10/2021",
-    "arrival": "30/10/2021",
+    "from": "Pune",
+    "to": "Kolkata",
+    "departure": "30/12/2021",
+    "arrival": "30/12/2021",
     "depTime": "3:05 AM",
     "arrTime": "10:05 AM",
-    "price": 500
+    "price": 2950
   },
   {
-    "from": "Cairo",
-    "to": "London",
-    "departure": "25/10/2021",
-    "arrival": "25/10/2021",
+    "from": "Kolkata",
+    "to": "Bangalore",
+    "departure": "20/11/2021",
+    "arrival": "20/11/2021",
     "depTime": "1:05 AM",
     "arrTime": "7:05 AM",
-    "price": 500
+    "price": 3000
   },
   {
-    "from": "Cairo",
-    "to": "London",
-    "departure": "25/10/2021",
-    "arrival": "25/10/2021",
+    "from": "Kolkata",
+    "to": "Pune",
+    "departure": "20/11/2021",
+    "arrival": "20/11/2021",
     "depTime": "3:05 AM",
     "arrTime": "10:05 AM",
-    "price": 500
+    "price": 2950
   },
   {
-    "from": "London",
-    "to": "Cairo",
-    "departure": "30/10/2021",
-    "arrival": "30/10/2021",
+    "from": "Bangalore",
+    "to": "Kolkata",
+    "departure": "30/12/2021",
+    "arrival": "30/12/2021",
     "depTime": "1:05 AM",
     "arrTime": "7:05 AM",
-    "price": 500
+    "price": 3000
   },
   {
-    "from": "London",
-    "to": "Cairo",
-    "departure": "30/10/2021",
-    "arrival": "30/10/2021",
+    "from": "Bangalore",
+    "to": "Kolkata",
+    "departure": "30/12/2021",
+    "arrival": "30/12/2021",
     "depTime": "3:05 AM",
     "arrTime": "10:05 AM",
-    "price": 500
+    "price": 3000
   },
   {
-    "from": "Cairo",
-    "to": "Berlin",
-    "departure": "25/10/2021",
-    "arrival": "25/10/2021",
+    "from": "Kolkata",
+    "to": "Hyderabad",
+    "departure": "20/11/2021",
+    "arrival": "20/11/2021",
     "depTime": "1:05 AM",
     "arrTime": "7:05 AM",
-    "price": 500
+    "price": 2700
   },
   {
-    "from": "Cairo",
-    "to": "Berlin",
-    "departure": "25/10/2021",
-    "arrival": "25/10/2021",
+    "from": "Delhi",
+    "to": "Mumbai",
+    "departure": "20/11/2021",
+    "arrival": "20/11/2021",
     "depTime": "3:05 AM",
     "arrTime": "10:05 AM",
-    "price": 500
+    "price": 3200
   },
   {
-    "from": "Berlin",
-    "to": "Cairo",
-    "departure": "30/10/2021",
-    "arrival": "30/10/2021",
+    "from": "Hyderabad",
+    "to": "Chennai",
+    "departure": "30/12/2021",
+    "arrival": "30/12/2021",
     "depTime": "1:05 AM",
     "arrTime": "7:05 AM",
-    "price": 500
+    "price": 2400
   },
   {
-    "from": "Berlin",
-    "to": "Cairo",
-    "departure": "30/10/2021",
-    "arrival": "30/10/2021",
+    "from": "Mumbai",
+    "to": "Chennai",
+    "departure": "30/12/2021",
+    "arrival": "30/12/2021",
     "depTime": "3:05 AM",
     "arrTime": "10:05 AM",
-    "price": 500
+    "price": 2550
   }
 ]

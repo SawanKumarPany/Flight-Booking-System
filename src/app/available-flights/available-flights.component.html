@@ -22,7 +22,7 @@
         <td>{{ flight.arrival }}</td>
         <td>{{ flight.depTime }}</td>
         <td>{{ flight.arrTime }}</td>
-        <td>{{ flight.price | currency }}</td>
+        <td>{{ flight.price | currency:'INR' }}</td>
         <td><button (click)="book(flight)">Book</button></td>
       </tr>
     </table>
